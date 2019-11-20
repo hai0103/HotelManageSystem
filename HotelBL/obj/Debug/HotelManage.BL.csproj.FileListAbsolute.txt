@@ -1,0 +1,8 @@
+D:\Study\.net\HotelManage\HotelBL\bin\Debug\HotelBL.dll
+D:\Study\.net\HotelManage\HotelBL\bin\Debug\HotelBL.pdb
+D:\Study\.net\HotelManage\HotelBL\bin\Debug\Common.dll
+D:\Study\.net\HotelManage\HotelBL\bin\Debug\Common.pdb
+D:\Study\.net\HotelManage\HotelBL\obj\Debug\HotelManage.BL.csprojAssemblyReference.cache
+D:\Study\.net\HotelManage\HotelBL\obj\Debug\HotelManage.BL.csproj.CopyComplete
+D:\Study\.net\HotelManage\HotelBL\obj\Debug\HotelBL.dll
+D:\Study\.net\HotelManage\HotelBL\obj\Debug\HotelBL.pdb

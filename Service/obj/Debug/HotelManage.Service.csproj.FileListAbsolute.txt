@@ -1,0 +1,15 @@
+D:\Study\.net\HotelManage\Service\bin\Debug\Service.dll
+D:\Study\.net\HotelManage\Service\bin\Debug\Service.pdb
+D:\Study\.net\HotelManage\Service\obj\Debug\HotelManage.Service.csprojAssemblyReference.cache
+D:\Study\.net\HotelManage\Service\obj\Debug\Service.dll
+D:\Study\.net\HotelManage\Service\obj\Debug\Service.pdb
+D:\Study\.net\HotelManage\Service\bin\Debug\Service.dll.config
+D:\Study\.net\HotelManage\Service\bin\Debug\EntityFramework.dll
+D:\Study\.net\HotelManage\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\.net\HotelManage\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Study\.net\HotelManage\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\.net\HotelManage\Service\bin\Debug\EntityFramework.xml
+D:\Study\.net\HotelManage\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\.net\HotelManage\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Study\.net\HotelManage\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\.net\HotelManage\Service\obj\Debug\HotelManage.Service.csproj.CopyComplete
