@@ -18,3 +18,21 @@ D:\HotelManage\HotelManage\HotelBL\obj\Debug\HotelManage.Services.csprojAssembly
 D:\HotelManage\HotelManage\HotelBL\obj\Debug\HotelManage.Services.csproj.CopyComplete
 D:\HotelManage\HotelManage\HotelBL\obj\Debug\HotelBL.dll
 D:\HotelManage\HotelManage\HotelBL\obj\Debug\HotelBL.pdb
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\HotelBL.dll.config
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\HotelBL.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\HotelBL.pdb
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\Common.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\EntityFramework.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\Common.pdb
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\EntityFramework.xml
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Tai lieu\HotelManageSystem\HotelBL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tai lieu\HotelManageSystem\HotelBL\obj\Debug\HotelManage.Services.csprojAssemblyReference.cache
+D:\Tai lieu\HotelManageSystem\HotelBL\obj\Debug\HotelManage.Services.csproj.CoreCompileInputs.cache
+D:\Tai lieu\HotelManageSystem\HotelBL\obj\Debug\HotelManage.Services.csproj.CopyComplete
+D:\Tai lieu\HotelManageSystem\HotelBL\obj\Debug\HotelBL.dll
+D:\Tai lieu\HotelManageSystem\HotelBL\obj\Debug\HotelBL.pdb

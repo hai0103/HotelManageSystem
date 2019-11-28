@@ -3,3 +3,9 @@ D:\Study\.net\HotelManage\Common\bin\Debug\Common.pdb
 D:\Study\.net\HotelManage\Common\obj\Debug\HotelManage.Common.csprojAssemblyReference.cache
 D:\Study\.net\HotelManage\Common\obj\Debug\Common.dll
 D:\Study\.net\HotelManage\Common\obj\Debug\Common.pdb
+D:\Tai lieu\HotelManageSystem\Common\bin\Debug\Common.dll
+D:\Tai lieu\HotelManageSystem\Common\bin\Debug\Common.pdb
+D:\Tai lieu\HotelManageSystem\Common\obj\Debug\HotelManage.Common.csprojAssemblyReference.cache
+D:\Tai lieu\HotelManageSystem\Common\obj\Debug\HotelManage.Common.csproj.CoreCompileInputs.cache
+D:\Tai lieu\HotelManageSystem\Common\obj\Debug\Common.dll
+D:\Tai lieu\HotelManageSystem\Common\obj\Debug\Common.pdb

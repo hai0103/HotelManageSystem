@@ -10,8 +10,8 @@ namespace HotelManage.Models
     public interface IRoomTypeRepository
     {
         IEnumerable<RoomType> GetAll();
-        int Add();
+        int Add(RoomType roomType);
         int Edit();
-        int Delete();
+        int Delete(Guid id);
     }
 }

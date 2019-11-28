@@ -10,8 +10,8 @@ namespace HotelManage.Services
     public interface IEmployeeRepository
     {
         IEnumerable<Employee> GetAll();
-        int Create();
+        int Create(Employee employee);
         int Edit();
-        int Delete();
+        int Delete(Guid id);
     }
 }
